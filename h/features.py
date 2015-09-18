@@ -13,6 +13,7 @@ FEATURES = {
     'queue': "Enable dispatch of annotation events to NSQ?",
     'streamer': "Enable 'live streaming' for annotations via the websocket?",
     'search_normalized': "Assume all data has normalized URI fields?",
+    'show_displaced': "Show annotations that fail to anchor?",
 }
 
 
